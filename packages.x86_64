@@ -142,4 +142,6 @@ bluez
 bluez-utils
 openssh
 base-devel
-demnu
+dmenu
+git
+ttf-proggyclean-nerd

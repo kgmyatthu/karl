@@ -35,14 +35,14 @@ style = "Block"
 TERM = "alacritty"
 
 [font]
-size = 9
+size = 12
 
 [font.bold]
-family = "FiraCode Nerd Font Mono"
+family = "ProggyClean Nerd Font"
 style = "Bold"
 
 [font.normal]
-family = "cozette"
+family = "ProggyClean Nerd Font"
 
 [font.offset]
 x = 1
