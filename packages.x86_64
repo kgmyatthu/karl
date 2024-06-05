@@ -130,8 +130,6 @@ xl2tpd
 zsh
 python3
 neovim
-nvidia-dkms
-dkms
 xorg
 xorg-xinit
 awesome
