@@ -1,6 +1,6 @@
-# Karl - Arch Linux with Desktop Environment
+# Karl - Kaung's Arch Recovery Linux
 
-Karl is a profile for archiso to create a live USB boot that is essentially bare Arch Linux with a pre-configured desktop environment to make your life  easier installating an Arch Linux system, complete with a firefox browser and Network Manager. No more looking at your phone or through secondary computer for guides, notes or googling around. Browse the internet while you chroot. o7 Archer.
+Karl is a profile for archiso to create a live USB boot that is essentially bare Arch Linux with a pre-configured desktop environment to make your life  easier installating an Arch Linux system, complete with a firefox browser and Network Manager. No more looking at your phone or through secondary computer for guides, notes or googling around. Browse the internet while you chroot. You can treat this iso the same as offcial arch linux ISO to do installation via tty or fire `startx` away to spin up the awesome wm. o7 Archer.
 
 
 ## How to Build the ISO
@@ -53,6 +53,10 @@ Once you have built the ISO, follow these steps to burn it to a USB device:
 ## Contributing
 
 Feel free to open issues and pull requests if you encounter any problems or have improvements.
+
+## The Why
+
+I often fiddle with things on my system without proper backup mesures (I'm lazy). I find myself having to rescue my arch linux more than i'd like to. And often googling stuff is inevitable. The offical archlinux ISO suck in that regard so there is karl. 
 
 ## License
 
