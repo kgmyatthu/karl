@@ -142,4 +142,5 @@ openssh
 base-devel
 dmenu
 git
+gparted
 ttf-proggyclean-nerd
